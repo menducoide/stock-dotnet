@@ -1,0 +1,7 @@
+{
+    "name": "stock",
+    "version": "0.1.0",
+    "description": "stock service",
+    "title": "Stock service",
+    "url" : "https://localhost:5000/v1/stock/"
+  }

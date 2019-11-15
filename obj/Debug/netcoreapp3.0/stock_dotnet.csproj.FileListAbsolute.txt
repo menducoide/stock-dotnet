@@ -1,0 +1,4 @@
+D:\FRM\MICROSERVICIOS\ecommerce\stock_dotnet\obj\Debug\netcoreapp3.0\stock_dotnet.csprojAssemblyReference.cache
+D:\FRM\MICROSERVICIOS\ecommerce\stock_dotnet\obj\Debug\netcoreapp3.0\stock_dotnet.MvcApplicationPartsAssemblyInfo.cache
+D:\FRM\MICROSERVICIOS\ecommerce\stock_dotnet\obj\Debug\netcoreapp3.0\stock_dotnet.AssemblyInfoInputs.cache
+D:\FRM\MICROSERVICIOS\ecommerce\stock_dotnet\obj\Debug\netcoreapp3.0\stock_dotnet.AssemblyInfo.cs
